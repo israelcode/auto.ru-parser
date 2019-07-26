@@ -4,7 +4,7 @@ python3 autoruparser.py
 
 python3 bot.py
 
-you should have install this libraties:
+you should have install this libraries:
 
 1)requests
 
