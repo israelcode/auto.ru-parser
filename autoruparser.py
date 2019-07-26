@@ -64,7 +64,7 @@ def main():
     browser = webdriver.Firefox()
     f = open('BASE.csv', 'w')
 
-    for i in range(1, 2):
+    for i in range(1, 10): # Number of pages you want to parse. In this case first 10 pages
         url_gen = base_url + str(i)
         print(url_gen) 
         browser.get(url_gen)
