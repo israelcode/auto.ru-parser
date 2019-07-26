@@ -2,7 +2,7 @@
 
 python3 autoruparser.py
 
-pyrhon3 bot.py
+python3 bot.py
 
 you should have install this libraties:
 
